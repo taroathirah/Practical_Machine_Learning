@@ -1,10 +1,15 @@
 First of all thank you for opening this file
-Im having a hard time to publish my html file tho ive followed the tutorial (link: https://github.com/lgreski/datasciencectacontent/blob/master/markdown/pml-ghPagesSetup.md). It seems so hard to publish the compiled html here. 
+Im having a hard time to publish my html file tho ive followed the tutorial 
+(link: https://github.com/lgreski/datasciencectacontent/blob/master/markdown/pml-ghPagesSetup.md). 
+
+It seems so hard to publish the compiled html here. 
 therefore, you will see a lot of related stuff (folders and files) in this repo.
 
-So, let say you wanna see the rmd file, u can either check the index.rmd or Project Practical Machine Learning.Rmd
+>> So, let say you wanna see the rmd file, u can either check the index.rmd or Project Practical Machine Learning.Rmd
 
-As for the html, im suggesting you to check the html version here: (Link: http://taroathirah.github.io/Practical_Machine_Learning/)  OR published at rpubs publication (link: http://rpubs.com/taroathirah/Project_PML) as im not sure why my index.html doesnt want to publish the compiled html.
+>> As for the html, im suggesting you to check the html version here: (Link: http://taroathirah.github.io/Practical_Machine_Learning/)  
+OR published at rpubs publication (link: http://rpubs.com/taroathirah/Project_PML) as im not sure why my index.html doesnt want 
+to publish the compiled html.
 
 Kindly comment at the evaluation page if you had the idea.
 
